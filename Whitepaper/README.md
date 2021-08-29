@@ -139,12 +139,61 @@ Moreover, during peak loads, a large number of transactions clog the Ethereum ne
 
 Here is how the Matic Network will function: <br/>
 
-1. A user deposits a cryptographic asset in the Matic contract on the mainchain (currently implemented with Ethereum blockchain only).
-2. Once deposited, tokens get confirmed on the main chain, tokens will appear on the Matic Chain using Matic Deposit bridge (technical details explained in a dedicated section below).
-3. The user can now transfer tokens to anyone they want almost instantly (Matic Chain has faster blocks - approximately 1 second or less) for almost negligible fees.
+1. A user deposits a cryptographic asset in the Earthchain contract on the mainchain (currently implemented with Ethereum blockchain only).
+2. Once deposited, tokens get confirmed on the main chain, tokens will appear on the Earthchain using Earthchain Deposit bridge (technical details explained in a dedicated section below).
+3. The user can now transfer tokens to anyone they want almost instantly (Earthchain has faster blocks - approximately 1 second or less) for almost negligible to zero fees.
 4. Whenever the user wishes to, they can withdraw tokens to the main Ethereum chain by establishing proof of remaining tokens on Root contract (contract deployed on Ethereum chain).
 
 The same method will work for any ERC-20 token or other fungible crypto assets on the Ethereum blockchain.
-The Matic Development Team has already created a demo version, available at: https://github.com/maticnetwork/contracts.
+The Matic Development Team has already created a demo version, available at: https://github.com/kazyon/EarthChain/tree/whitepaper-v1.0-alpha/SmartContracts.
 
 We expect the alpha version of the mainnet to go live very soon.
+
+# Decentralization 
+
+### Explanation: 
+In blockchain, decentralization refers to the transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network. Decentralized networks strive to reduce the level of trust that participants must place in one another, and deter their ability to exert authority or control over one another in ways that degrade the functionality of the network.
+
+### Benefits of decentralization
+#### Provides a trustless environment
+In a decentralized blockchain network, no one has to know or trust anyone else. Each member in the network has a copy of the exact same data in the form of a distributed ledger. If a member’s ledger is altered or corrupted in any way, it will be rejected by the majority of the members in the network.
+
+### Improves data reconciliation
+Companies often exchange data with their partners. This data, in turn, is typically transformed and stored in each party’s data silos, only to resurface when it needs to be passed downstream. Each time the data is transformed, it opens up opportunities for data loss or incorrect data to enter the workstream. By having a decentralized data store, every entity has access to a real-time, shared view of the data.
+
+### Reduces points of weakness
+Decentralization can reduce points of weakness in systems where there may be too much reliance on specific actors. These weak points could lead to systemic failures, including failure to provide promised services or inefficient service due to the exhaustion of resources, periodic outages, bottlenecks, lack of sufficient incentives for good service, or corruption.
+
+### Optimizes resource distribution
+Decentralization can also help optimize the distribution of resources so that promised services are provided with better performance and consistency, as well as a reduced likelihood of catastrophic failure.
+
+
+### How decentralization compares
+
+Decentralization should be applied where it makes sense. Just because it’s a blockchain application doesn’t mean it needs to be 100% decentralized. The goal of any blockchain solution is to deliver what the users of that solution need, and this may or may not include certain levels of decentralization. To better understand decentralized networks, the table below breaks out how decentralized networks compare to the more common centralized and distributed networks.
+
+### Who is building blockchain applications leveraging decentralization
+
+Every blockchain protocol, decentralized Application (dApp), Decentralized Autonomous Organization (DAO), or other blockchain-related solution adopts varying levels of decentralization. The adoption level is typically based on the maturity of the solution, the time-proven reliability of its incentive models and consensus mechanisms, and the ability of the founding team to strike the right balance. For example, many DAOs have various components at different stages of decentralization: oracles (i.e., third-party services that provide smart contracts with external information) may be partly decentralized, smart contracts might be fully centralized, while the governance process for adjusting parameters is community-driven and decentralized.
+
+On a broader scale, decentralized blockchain solutions are being explored and adopted by organizations of every type, size, and industry. Some notable examples include applications that provide immediate foreign or emergency aid to those who need it most, without the mediation of a bank, government or third-party entity. Or applications that give people the ability to manage their own digital identities and data. Today, social media platforms, companies, and other organizations sell this information without the individual seeing any benefit. A decentralized approach would help make it equitable for all.
+
+#### No power sensitivity algorithm -  based on the gpu (asic) or whatever the miner or the node is there will be only a couple of stages created for each participant of the network to allow for better power consumption and cooling for example : 
+
+<b>Fast<b> 
+High consumption settings for each gpu to create a special settings and special bandwidth enlargement possibility to allow a highway that will provide better connection to the miners that want to join this pool (possible) 
+
+<b>Moderate<b>
+Moderate consumption settings with lower with 25% hasrate and 45% energy consumption less then the Fast cumstion stage 
+
+<b>Low<b>
+Low consumption settings with lower hasrate 10% lesser that Moderate and 35% lesser that the fast consumption setting with 10 % lesser energy consumption than the moderate setting and with 15% power consumption perfect for energy efficiency maybe during the night with energy efficiency of 60% from the fast consumption setting !!
+
+# Research and Development
+
+We plan to launch our first project based on blockchain in which we will provide ambulances a better accuracy of tracking where the request is comming from. This trigger will be represented by a button that will be programmed to do only one thing: to send a coin from the buttons wallet to the hospital wallet and inform them that the have an intervention and coin to contain the address and name of the button and based on GPS location to allow for a faster tracking instead of calling at 112 that is not always accurate.
+This button can be represented also as an application on the phone with the same properties.
+
+This buttons can create transactions to hospitals to send and SOS to the medical teams know where the exact location of that person is and not lose time from the golden hour.
+
+We expect to deploy this blockchain to all of the devices to reduce old hardware waste so for GPU miners our development team plans to make Earthchain GPU intensive and lesser memory intensive so that it will allow for lower power consumption and better effeciency. 
