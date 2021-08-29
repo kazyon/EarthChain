@@ -49,6 +49,7 @@ blockchain.com.
 Figure 2: Estimated number of full nodes participating in the Bitcoin and
 Ethereum networks over time. Source: www.bitnodes.earn.com and www.
 Ethernodes.org.
+<br>
 ![GitHub Logo2](/Images/2.png)
 
 In this work, our goal is to design a decentralized payment system that
@@ -123,4 +124,27 @@ User interactions on DApps are often poor compared to their centralized counterp
 
 The Earthchain Development team is expected to work on various Mobile and Web browser integration tools and is pioneering protocols in this domain. It intends to build a ubiquitous mobile/browser app, which will act as a secured interaction layer for blockchain interactions. The Earthchain Development team will be publishing the designs and prototypes of these soon.
 
+
 # Introducing the Earthchain Network
+
+ As discussed in brief in the section above, the Earthchain Network aims to solve the problems faced by the blockchain ecosystem through building a decentralized platform using an adapted version of Python & Django Web framework togheter with ReactJS. This provides for fast and extremely low cost transactions with finality on a mainchain. The current working Testnet and alpha-Mainnet of the Earthchain Network works with Earthchain as a mainchain. <br/>
+
+# Architecture 
+
+Since the Earthchain Network's core focus is on mass user adoption, it is ideal that a deep dive into the Matic Network's technical architecture should start from a user journey.
+
+When a user is transferring ETH or ERC20 tokens on the Ethereum network, they have to wait for the confirmation of the block which ranges from 14 seconds to 20 seconds. Even then the users have to wait for multiple block confirmations to be sure of the finality of the transaction. Let’s say you are buying a coffee or paying tokens to watch a movie. On each transaction you are not only paying a high fee, but also waiting for it to be confirmed. That serves as a deterrent for users wanting to use the service.
+
+Moreover, during peak loads, a large number of transactions clog the Ethereum network and gas fees increase on each transaction in order to obtain faster confirmations. The Matic Network is proposed as a solution to overcome these problems.
+
+Here is how the Matic Network will function: <br/>
+
+1. A user deposits a cryptographic asset in the Matic contract on the mainchain (currently implemented with Ethereum blockchain only).
+2. Once deposited, tokens get confirmed on the main chain, tokens will appear on the Matic Chain using Matic Deposit bridge (technical details explained in a dedicated section below).
+3. The user can now transfer tokens to anyone they want almost instantly (Matic Chain has faster blocks - approximately 1 second or less) for almost negligible fees.
+4. Whenever the user wishes to, they can withdraw tokens to the main Ethereum chain by establishing proof of remaining tokens on Root contract (contract deployed on Ethereum chain).
+
+The same method will work for any ERC-20 token or other fungible crypto assets on the Ethereum blockchain.
+The Matic Development Team has already created a demo version, available at: https://github.com/maticnetwork/contracts.
+
+We expect the alpha version of the mainnet to go live very soon.
