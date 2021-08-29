@@ -1,6 +1,6 @@
-<center>
+
 ![GitHub Logo](/Images/transparent_logo.png)
-</center>
+
 <br><br>
 <center>
   <h1>Welcome to Earthchain</h1>
@@ -16,7 +16,7 @@ This is the main source code repository for the Earthchain project.
 
 ## Notes
     * Earthchain is still under active development and it is still evolving. 
-    * We will be launching a live testnet of the Earthchain protocol in the near future. - [sign up here to join the testnet](https://www.)   [//]: (comment, need to add link where to join for the testnet)
+    * We will be launching a live testnet of the Earthchain protocol in the near future. - [sign up here to join the testnet]   [//]: (comment, need to add link where to join for the testnet)
 
 <center>
   <h3>Abstract</h3>
