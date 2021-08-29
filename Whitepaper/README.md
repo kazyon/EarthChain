@@ -45,6 +45,7 @@ the burden of verification.
 Figure 1: Growth of the Bitcoin blockchain over time, in GB. Source: www.
 blockchain.com.
 ![GitHub Logo1](/Images/1.png)
+<br>
 Figure 2: Estimated number of full nodes participating in the Bitcoin and
 Ethereum networks over time. Source: www.bitnodes.earn.com and www.
 Ethernodes.org.
@@ -89,15 +90,37 @@ Public blockchains have to maintain a certain amount of time lag between the pro
 
 Earthchain solves this problem by using a **worker node layers to produce the blocks.** Worker Nodes enable the system to produce blocks at a very fast rate. The system ensures decentralization using PoS checkpoints which are pushed to the Mainchain (Ethereum serves as the mainchain for a start).**This enables The Matic Network to theoretically achieve up to $$1^{16}$$  transactions per second on a single side chain.**
 
-### Scalability {#scalability}
+### Scalability {#tbd variable}
 
 As discussed in the previous section, The Earthchain Network easily achieves a theoretical speed of up to $$1^{16}$$ transactions per second on a single side chain. **In future, The Earthchain Network is expected to be able to easily add more side chains verticaly by using Kubernetes containers to ramp up and down depending on the load to sustain and increase the total number of transactions on the Earthchain while using the same decentralized PoS layer.**
 
 
 Theoretically the Earthchain Network has the capacity for 10 millions transactions per second with the usage of multiple side chains. Also, the mechanism to do so will be been demonstrated with the first Earthchain proof-of-concept with the first Earthchain side-chain and new chains can be added in due course of time.
 
-### Size of Blockchain {#sob}
+### Size of Blockchain {#tbd variable}
 
 Each block on the blockchain and/or compute state in case of a smart contract based blockchain must be validated by multiple nodes. Each node has to manage a copy of the state and the blocks. While the chain increases in size as the days go by, maintaining and validating the whole blockchain becomes difficult and results in fewer full nodes in public blockchains, which poses a risk for decentralization.<br/>
 
 For the EarthChain Network, the primary layer which provides decentralization may choose to store only the blocks of Earthchain from the previous checkpoint to the next checkpoint. All previous transaction/block proofs have been submitted to the mainchain. **This enables extremely low fidelity PoS nodes which can be run in very low-cost machines with low storage. In future, The Earthchain Network intends to enable mobile device based PoS miners too. Our aim is to create the perfect size for blocks in order for Earthchain to provide low syncronisation time and also **
+
+### Multiple micropayment channels with other off-chain solutions {#loooong}
+
+Some payment channel solutions have proposed solutions to solve the problem of micro-payments. However, the process of opening and managing channels with multiple DApps or users is complex. Additionally, the speed and convenience of mediated payments over channels is still up for debate.
+
+Since **The EarthChain Network uses a state-based architecture on an EVM (Earthchain Virtual Machine), it does not require payment channels to be opened between two parties. In fact, any valid Bitcoin address is a valid Earthchain Address and a receiver does not need to be on the Earthchain to receive payment. They would only need to have a Earthchain Wallet when they want to retrieve the payments on the main chain or spend it in the ecosystem on the Earthchain Network.**
+
+### High Transaction Fees {#tbd variable}
+
+With the rapid growth of the blockchain ecosystem, new crypto assets are increasingly being created, transferred, and sold, often involving multiple crypto tokens. Also, most decentralized apps have their own token and economy. Paying tokens for the services or doing any kind of transaction on blockchains requires on-chain transfers. Every blockchain has a transaction cost structure. For example, Ethereum charges gas fees on each transaction.
+
+The amount of fees is an important factor to incentivize validators and prevent certain kinds of security attacks such as DoS. However, there is the problem of variation of fees (Depending upon the pending transaction pool) due to the limited block size.
+
+**The Earthchain Network enables low cost transactions through achieving economies of scale by doing a large number of transactions on the general layer which ensures low cost, and then subsequently batching the proofs of the Earthchain blocks using the Merkle root of the blocks** to a highly decentralized mainchain (for ex. Ethereum) using a decentralized layer of PoS Stakers.
+
+### Poor Usability {#tbd variable}
+
+User interactions on DApps are often poor compared to their centralized counterparts. For the Decentralization revolution to achieve mass adoption, the user experience of DApps has to be on par with, if not better than, their centralized counterparts.
+
+The Earthchain Development team is expected to work on various Mobile and Web browser integration tools and is pioneering protocols in this domain. It intends to build a ubiquitous mobile/browser app, which will act as a secured interaction layer for blockchain interactions. The Earthchain Development team will be publishing the designs and prototypes of these soon.
+
+# Introducing the Earthchain Network
