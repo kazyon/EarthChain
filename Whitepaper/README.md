@@ -1,3 +1,5 @@
-<div style="text-align:center"><img src="\Images\transparent_logo.png" /></div>
+![GitHub Logo](/Images/transparent_logo.png)
+
 ### Earthchain
+
 <br></br>
