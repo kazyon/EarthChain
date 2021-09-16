@@ -55,7 +55,7 @@ Ethernodes.org.
 In this work, our goal is to design a decentralized payment system that
 offers efficient verification of system history from genesis without relying on
 any external advice. Specifically, we aim to provide verification time constant
-(푂(1)) in the number of transactions; we call such a blockchain, a general
+((1)) in the number of transactions; we call such a blockchain, a general
 blockchain.
 We achieve this goal by including general proofs of state validity in each
 block. 
@@ -89,7 +89,7 @@ Earthchain solves this problem by using a high throughput blockchain with consen
 
 Public blockchains have to maintain a certain amount of time lag between the production of adjacent blocks so as to ensure ample time for block propagation. Also, the block size needs to be small so as to ensure quick propagation of the block through the network. This entails that the number of transactions in a particular block need to be fairly limited.<br />
 
-Earthchain solves this problem by using a **worker node layers to produce the blocks.** Worker Nodes enable the system to produce blocks at a very fast rate. The system ensures decentralization using PoS checkpoints which are pushed to the Mainchain (Ethereum serves as the mainchain for a start).**This enables The Matic Network to theoretically achieve up to $$1^{16}$$  transactions per second on a single side chain.**
+Earthchain solves this problem by using a **worker node layers to produce the blocks.** Worker Nodes enable the system to produce blocks at a very fast rate. The system ensures decentralization using PoS checkpoints which are pushed to the Mainchain (Ethereum serves as the mainchain for a start).**This enables The Matic Network to theoretically achieve up to '$$1^{16}$$'  transactions per second on a single side chain.**
 
 ### Scalability {#tbd variable}
 
