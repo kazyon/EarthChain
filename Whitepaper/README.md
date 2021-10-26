@@ -7,7 +7,8 @@
 </center>
 <br><br>
 
-[Whitepaper Version 1.0 -alpha]<br><br>
+[Whitepaper Version 1.1 -alpha]<br><br>
+
 
 This is the whitepaper for Earthchain Blockchain, a resource of the Herophilos community.
 Earthchain represents the first step to industrialize blockchain technology, and by creating a lightweight blockchain we know that it will be compatible on all of the devices. 
