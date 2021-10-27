@@ -8,9 +8,10 @@
 
 Here is the current phases of Development:
 
-| Object Name | Current Stage | New Stage <br>
-| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) <br>  
-| Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) <br>
+| Object Name | Current Stage | New Stage 
+| | | 
+| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) 
+| Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) 
 
 <b>Herophilos Landing Page</b><br> 
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>
