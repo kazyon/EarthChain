@@ -14,9 +14,9 @@ Here is the current phases of Development:
 | Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) 
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Object Name | Current Stage | Next Stage |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
