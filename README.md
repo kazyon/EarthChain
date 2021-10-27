@@ -7,9 +7,7 @@
 </center>
 <br><br>
 
-======================================================================================================
 !! Disclaimer : This paper will suffer modifications during the development phase of the project. 
-======================================================================================================
 
 [Whitepaper Version - alpha(v1.0) --> alpha(v1.1)] 
 <br>
