@@ -6,7 +6,7 @@
 
 ##### !! Disclaimer : This paper will suffer modifications during the development phase of the project.
 
-### Current phases of Development
+Here is the current phases of Development:
 
 | Object Name | Current Stage | New Stage 
 | Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)   
