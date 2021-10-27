@@ -8,10 +8,12 @@
 
 ### Current phases of Development
 
-| <b>Whitepaper Version</b><br>                                                               | <b>Herophilos Landing Page</b>                                                           |
+| Whitepaper Version                                                                      |Herophilos Landing Page                                                          |
 | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)   |
 | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                             |                                                                                                |
+
 <b>Herophilos Landing Page</b><br> 
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>
 beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
