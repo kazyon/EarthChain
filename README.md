@@ -7,10 +7,10 @@
 ##### !! Disclaimer : This paper will suffer modifications during the development phase of the project.
 
 ### Current phases of Development
-<b>Whitepaper Version</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>
-alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-
+| <b>Whitepaper Version</b><br>                                                               | <b>Herophilos Landing Page</b><br>                                                           |
+| alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>  | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>   |
+| alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)        | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)         |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Herophilos Landing Page</b><br> 
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>
 beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
@@ -19,7 +19,7 @@ beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progres
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 <b>Build Project Roadmap Per Year</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
 
 <b>Creating High-Level-Design</b><br>
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
@@ -33,3 +33,6 @@ alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progres
 <b>Build Testnet</b><br>
 alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
+# Earthchain
+
+Earthchain is the first industrial with lightweight, and  
