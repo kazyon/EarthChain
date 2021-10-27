@@ -1,3 +1,0 @@
-### NFT DROP Project
-
-Test
