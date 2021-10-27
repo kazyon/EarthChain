@@ -12,7 +12,7 @@ Once the current stage will be completed the table will be updated with the next
 
 | Object Name | Current Stage | Next Stage |
 | --------------- | --------------- | --------------- |
-| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) == ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 | Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 | Create Github Repositories | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 | Build Project Roadmap Per Year | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
