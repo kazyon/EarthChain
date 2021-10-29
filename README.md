@@ -4,11 +4,11 @@
 
 <h1>Welcome to Earthchain</h1>
 
-<img src="/Images/E.C_Roadmap.png" width="500" alt="Earthchain Roadmap">
-
 ##### !! Disclaimer : This paper will suffer modifications during the development phase of the project.
 
 #### Here is the current phases of Development:
+
+<img src="/Images/E.C_Roadmap.png" width="500" alt="Earthchain Roadmap">
 
 Once the current stage will be completed the table will be updated with the next version 
 
