@@ -4,7 +4,7 @@
 
 <h1>Welcome to Earthchain</h1>
 
-<img src="/Images/E.C_Roadmap.png" alt="Earthchain Roadmap">
+<img src="/Images/E.C_Roadmap.png" width="500" alt="Earthchain Roadmap">
 
 ##### !! Disclaimer : This paper will suffer modifications during the development phase of the project.
 
