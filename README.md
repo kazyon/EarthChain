@@ -23,7 +23,8 @@ Once the current stage will be completed the table will be updated with the next
 | Project Development | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 | Build Testnet  | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 
+<!-- # Earthchain
 
-# Earthchain
+Earthchain is the first industrial with lightweight, and -->
 
-Earthchain is the first industrial with lightweight, and  
+  
