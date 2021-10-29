@@ -8,9 +8,8 @@
 
 #### Here is the current phases of Development:
 
-<a href ="herophilos.site">
-<img src="/Images/E.C_Roadmap.png" alt="Earthchain Roadmap">
-</a>
+![EarthChain Roadmap](/Images/E.C_Roadmap.png)
+
 Once the current stage will be completed the table will be updated with the next version 
 
 | Object Name | Current Stage | Next Stage |
