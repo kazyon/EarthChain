@@ -8,7 +8,7 @@
 
 #### Here is the current phases of Development:
 
-![EarthChain Roadmap](/Images/E.C_Roadmap.png)
+![EarthChain Roadmap](https://github.com/kazyon/EarthChain/blob/documentation_branch/Images/E.C_Roadmap.PNG)
 
 Once the current stage will be completed the table will be updated with the next version 
 
