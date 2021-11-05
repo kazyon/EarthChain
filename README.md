@@ -6,34 +6,25 @@
 
 ##### !! Disclaimer : This paper will suffer modifications during the development phase of the project.
 
-Here is the current phases of Development:
+#### Here is the current phases of Development:
 
-| Object Name | Current Stage | New Stage <br>
-| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) <br>  
-| Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) <br>
+![EarthChain Roadmap](https://github.com/kazyon/EarthChain/blob/documentation_branch/Images/E.C_Roadmap.PNG)
 
-<b>Herophilos Landing Page</b><br> 
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br>
-beta(v0.1)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+Once the current stage will be completed the table will be updated with the next version 
 
-<b>Create Github Repositories</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| Object Name | Current Stage | Next Stage |
+| --------------- | --------------- | --------------- |
+| Whitepaper Version | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Herophilos Landing Page | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | beta(v0.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Create Github Repositories | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Build Project Roadmap Per Year | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Creating High-Level-Design Infrastructure | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Creating Low-Level-Design Infrasctructure| alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Project Development | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
+| Build Testnet  | alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) | alpha(v1.1) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) |
 
-<b>Build Project Roadmap Per Year</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+<!-- # Earthchain
 
-<b>Creating High-Level-Design</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
+Earthchain is the first industrial with lightweight, and -->
 
-<b>Creating Low-Level-Design</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
-
-<b>Project Development</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-
-<b>Build Testnet</b><br>
-alpha(v1.0) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-
-# Earthchain
-
-Earthchain is the first industrial with lightweight, and  
+  
